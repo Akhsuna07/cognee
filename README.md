@@ -228,7 +228,7 @@ pip install cognee
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=topoteretes/cognee&type=Date)](https://star-history.com/#topoteretes/cognee&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=awaescher/OllamaSharp&type=Date)](https://star-history.com/#awaescher/OllamaSharp&Date)
 
 
 ## 💫 Contributors
